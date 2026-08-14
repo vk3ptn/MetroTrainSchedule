@@ -1,4 +1,5 @@
 // Author: Phuong Nguyen (VK3PTN)
+// Description: Display Metro Train schedule and weather information using ESP32 Dev Module
 // Version:
 //  1.0.0 Initial version for ESP32 Dev 2.8 Inch TFT LCD (Cheap Yellow Display Board) - 10/09/2026
 //  1.0.1 Implemented http queries to get Metro Train data - 12/09/2026
